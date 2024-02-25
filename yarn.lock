@@ -1559,9 +1559,6 @@
 "@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
   version "1.0.0"
 
-"@modules/privacy-policy-webview@file:./modules/privacy-policy-webview/":
-  version "1.0.0"
-
 "@modules/privacy-policy@file:./modules/privacy-policy":
   version "1.0.1"
   dependencies:
@@ -1583,6 +1580,9 @@
     uuid "^8.3.2"
 
 "@modules/splash@file:./modules/splash":
+  version "1.0.0"
+
+"@modules/splash@file:./modules/splash/":
   version "1.0.0"
 
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":
