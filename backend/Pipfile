@@ -34,6 +34,6 @@ django-import-export = "*"
 drf-spectacular = "~=0.26.4"
 dj-rest-auth = "==5.0.1"
 cb-django-s3-file-uploader = {editable = true, path = "./modules/django_s3_file_uploader"}
-cb-privacy-policy = {editable = true, path = "./modules/privacy_policy"}
 cb-payments = {editable = true, path = "./modules/payments"}
 cb-django-core = {editable = true, path = "./modules/django_core"}
+cb-privacy-policy = {editable = true, path = "./modules/privacy_policy"}
