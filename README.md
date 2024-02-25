@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-maps](modules/maps)
 - [django-s3-file-uploader](backend/modules)
 - [react-native-login](modules/login)
+- [react-native-mapbox-maps](modules/mapbox-maps)
 
 # Getting started: Frontend
 
