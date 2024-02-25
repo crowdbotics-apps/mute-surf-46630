@@ -1461,6 +1461,13 @@
     "@react-navigation/native-stack" "6.5.0"
     react-native-screens "3.10.2"
 
+"@modules/contact-us@file:./modules/contact-us/":
+  version "1.0.1"
+  dependencies:
+    "@react-navigation/native" "6.0.8"
+    "@react-navigation/native-stack" "6.5.0"
+    react-native-screens "3.10.2"
+
 "@modules/faq@file:./modules/faq":
   version "1.0.0"
 
@@ -1472,18 +1479,7 @@
     prop-types "15.8.1"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/login@file:./modules/login/":
-  version "1.0.0"
-  dependencies:
-    "@react-navigation/native" "^5.9.2"
-    "@react-navigation/stack" "^5.14.2"
-    prop-types "15.8.1"
-    react-native-keyboard-aware-scroll-view "^0.9.3"
-
 "@modules/mapbox-maps@file:./modules/mapbox-maps":
-  version "1.0.0"
-
-"@modules/mapbox-maps@file:./modules/mapbox-maps/":
   version "1.0.0"
 
 "@modules/maps@file:./modules/maps":
