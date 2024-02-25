@@ -1472,10 +1472,13 @@
     prop-types "15.8.1"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/mapbox-maps@file:./modules/mapbox-maps/":
+"@modules/mapbox-maps@file:./modules/mapbox-maps":
   version "1.0.0"
 
 "@modules/maps@file:./modules/maps":
+  version "1.0.0"
+
+"@modules/maps@file:./modules/maps/":
   version "1.0.0"
 
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":
