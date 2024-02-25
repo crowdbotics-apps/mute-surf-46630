@@ -1544,10 +1544,10 @@
 "@modules/mapbox-maps@file:./modules/mapbox-maps":
   version "1.0.0"
 
-"@modules/maps@file:./modules/maps":
+"@modules/mapbox-maps@file:./modules/mapbox-maps/":
   version "1.0.0"
 
-"@modules/maps@file:./modules/maps/":
+"@modules/maps@file:./modules/maps":
   version "1.0.0"
 
 "@modules/onboarding@file:./modules/onboarding":
@@ -1571,18 +1571,6 @@
   version "1.0.0"
 
 "@modules/social-login@file:./modules/social-login":
-  version "1.0.0"
-  dependencies:
-    "@invertase/react-native-apple-authentication" "^2.1.0"
-    "@react-native-google-signin/google-signin" "^6.0.0"
-    "@react-navigation/native" "^5.9.2"
-    "@react-navigation/stack" "^5.14.2"
-    react-native-fbsdk-next "11.2.1"
-    react-native-get-random-values "^1.6.0"
-    react-native-keyboard-aware-scroll-view "^0.9.3"
-    uuid "^8.3.2"
-
-"@modules/social-login@file:./modules/social-login/":
   version "1.0.0"
   dependencies:
     "@invertase/react-native-apple-authentication" "^2.1.0"
