@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-contact-us](modules/contact-us)
 - [react-native-maps](modules/maps)
 - [django-s3-file-uploader](backend/modules)
+- [react-native-login](modules/login)
 
 # Getting started: Frontend
 
