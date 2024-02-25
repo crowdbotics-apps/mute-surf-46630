@@ -1539,6 +1539,9 @@
 "@modules/mapbox-maps@file:./modules/mapbox-maps":
   version "1.0.0"
 
+"@modules/mapbox-maps@file:./modules/mapbox-maps/":
+  version "1.0.0"
+
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
@@ -1558,6 +1561,9 @@
   version "1.0.1"
   dependencies:
     react-native-render-html "^5.1.0"
+
+"@modules/push-notifications@file:./modules/push-notifications":
+  version "1.0.0"
 
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":
   version "5.1.1-v1"
@@ -5379,7 +5385,7 @@ interpret@^3.1.1:
   resolved "https://registry.yarnpkg.com/interpret/-/interpret-3.1.1.tgz#5be0ceed67ca79c6c4bc5cf0d7ee843dcea110c4"
   integrity sha512-6xwYfHbajpoF0xLW+iwLkhwgvLoZDfjYfoFNu8ftMoXINzwuymNLd9u/KmwtdT2GbR+/Cz66otEGEVVUHX9QLQ==
 
-invariant@*, invariant@2.2.4, invariant@^2.2.4:
+invariant@*, invariant@2.2.4, invariant@^2.2.2, invariant@^2.2.4:
   version "2.2.4"
   resolved "https://registry.yarnpkg.com/invariant/-/invariant-2.2.4.tgz#610f3c92c9359ce1db616e538008d23ff35158e6"
   integrity sha512-phJfQVBuaJM5raOpJjSfkiD6BpbCE4Ns//LaXl6wGYtUBY83nWS6Rf9tXm2e8VaK60JEjYldbPif/A2B1C2gNA==
@@ -7758,6 +7764,13 @@ react-native-maps@1.7.1:
   integrity sha512-CHVLzL+Q2jiUGgbt4/vosxVI1SukWyaLGjD62VLgR/wZpnH4Umi9ql1bmKDPWcfj2C1QZwMU0Yc7rXTbvZUIiw==
   dependencies:
     "@types/geojson" "^7946.0.10"
+
+react-native-onesignal@^4.0.3:
+  version "4.5.2"
+  resolved "https://registry.yarnpkg.com/react-native-onesignal/-/react-native-onesignal-4.5.2.tgz#31b9eaf13ee61be3725a4f77f03fba163cc06ac8"
+  integrity sha512-o7ksZAYzotmYsSSv5j+3779G5uoPbh7cPeJapJTPIfImtbsCjDhMVIix0qKxfT3R3V25BPxvMT0P5kM5ijVu9g==
+  dependencies:
+    invariant "^2.2.2"
 
 react-native-paper@^5.9.1:
   version "5.12.1"
