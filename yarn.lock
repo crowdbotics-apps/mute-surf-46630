@@ -1478,13 +1478,10 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
-"@modules/onboarding@file:./modules/onboarding":
+"@modules/maps@file:./modules/maps/":
   version "1.0.0"
-  dependencies:
-    prop-types "^15.8.1"
-    react-native-app-intro-slider "^4.0.4"
 
-"@modules/onboarding@file:./modules/onboarding/":
+"@modules/onboarding@file:./modules/onboarding":
   version "1.0.0"
   dependencies:
     prop-types "^15.8.1"
