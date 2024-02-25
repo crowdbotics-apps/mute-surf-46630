@@ -1544,6 +1544,9 @@
 "@modules/mapbox-maps@file:./modules/mapbox-maps":
   version "1.0.0"
 
+"@modules/mapbox-maps@file:./modules/mapbox-maps/":
+  version "1.0.0"
+
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
@@ -1557,9 +1560,6 @@
   version "1.0.1"
 
 "@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
-  version "1.0.0"
-
-"@modules/privacy-policy-webview@file:./modules/privacy-policy-webview/":
   version "1.0.0"
 
 "@modules/privacy-policy@file:./modules/privacy-policy":
