@@ -1567,9 +1567,6 @@
 "@modules/push-notifications@file:./modules/push-notifications":
   version "1.0.0"
 
-"@modules/push-notifications@file:./modules/push-notifications/":
-  version "1.0.0"
-
 "@modules/social-login@file:./modules/social-login":
   version "1.0.0"
   dependencies:
@@ -1583,6 +1580,9 @@
     uuid "^8.3.2"
 
 "@modules/splash@file:./modules/splash":
+  version "1.0.0"
+
+"@modules/splash@file:./modules/splash/":
   version "1.0.0"
 
 "@modules/terms-and-conditions-webview@file:./modules/terms-and-conditions-webview":
