@@ -1542,9 +1542,6 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
-"@modules/maps@file:./modules/maps/":
-  version "1.0.0"
-
 "@modules/onboarding@file:./modules/onboarding":
   version "1.0.0"
   dependencies:
@@ -1555,6 +1552,9 @@
   version "1.0.1"
 
 "@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
+  version "1.0.0"
+
+"@modules/privacy-policy-webview@file:./modules/privacy-policy-webview/":
   version "1.0.0"
 
 "@modules/privacy-policy@file:./modules/privacy-policy":
