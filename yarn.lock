@@ -1544,6 +1544,9 @@
 "@modules/mapbox-maps@file:./modules/mapbox-maps":
   version "1.0.0"
 
+"@modules/mapbox-maps@file:./modules/mapbox-maps/":
+  version "1.0.0"
+
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
@@ -1565,9 +1568,6 @@
     react-native-render-html "^5.1.0"
 
 "@modules/push-notifications@file:./modules/push-notifications":
-  version "1.0.0"
-
-"@modules/push-notifications@file:./modules/push-notifications/":
   version "1.0.0"
 
 "@modules/social-login@file:./modules/social-login":
