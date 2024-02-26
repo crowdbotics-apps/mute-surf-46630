@@ -37,5 +37,5 @@ cb-payments = {editable = true, path = "./modules/payments"}
 cb-privacy-policy = {editable = true, path = "./modules/privacy_policy"}
 cb-django-push-notifications = {editable = true, path = "./modules/django_push_notifications"}
 cb-terms-and-conditions = {editable = true, path = "./modules/terms_and_conditions"}
-cb-django-core = {editable = true, path = "./modules/django_core"}
 cb-django-s3-file-uploader = {editable = true, path = "./modules/django_s3_file_uploader"}
+cb-django-core = {editable = true, path = "./modules/django_core"}
