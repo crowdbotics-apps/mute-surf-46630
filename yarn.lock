@@ -1570,6 +1570,9 @@
 "@modules/push-notifications@file:./modules/push-notifications":
   version "1.0.0"
 
+"@modules/push-notifications@file:./modules/push-notifications/":
+  version "1.0.0"
+
 "@modules/social-login@file:./modules/social-login":
   version "1.0.0"
   dependencies:
