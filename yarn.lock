@@ -1544,6 +1544,9 @@
 "@modules/mapbox-maps@file:./modules/mapbox-maps":
   version "1.0.0"
 
+"@modules/mapbox-maps@file:./modules/mapbox-maps/":
+  version "1.0.0"
+
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
@@ -1593,7 +1596,7 @@
   dependencies:
     react-native-render-html "^5.1.0"
 
-"@modules/user-profile@file:./modules/user-profile/":
+"@modules/user-profile@file:./modules/user-profile":
   version "1.0.0"
   dependencies:
     "@react-navigation/native" "^5.9.2"
