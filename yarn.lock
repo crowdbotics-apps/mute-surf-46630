@@ -1530,13 +1530,6 @@
     "@react-navigation/native-stack" "6.5.0"
     react-native-screens "3.10.2"
 
-"@modules/contact-us@file:./modules/contact-us/":
-  version "1.0.1"
-  dependencies:
-    "@react-navigation/native" "6.0.8"
-    "@react-navigation/native-stack" "6.5.0"
-    react-native-screens "3.10.2"
-
 "@modules/faq@file:./modules/faq":
   version "1.0.0"
 
@@ -1590,6 +1583,9 @@
     uuid "^8.3.2"
 
 "@modules/splash@file:./modules/splash":
+  version "1.0.0"
+
+"@modules/splash@file:./modules/splash/":
   version "1.0.0"
 
 "@modules/terms-and-conditions-webview@file:./modules/terms-and-conditions-webview":
